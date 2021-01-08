@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "166950449843",
+    "project_id": "tictacgo-cb773",
+    "storage_bucket": "tictacgo-cb773.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166950449843:android:4a40221bc389510223f6c6",
+        "android_client_info": {
+          "package_name": "com.ekundayo.tic_tac_go"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "166950449843-oea7ec7hjjuhauq5lhq8lcsfuvtd5ufo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ekundayo.tic_tac_go",
+            "certificate_hash": "493f031c0778883e66c2bd77be93fbd1e6357781"
+          }
+        },
+        {
+          "client_id": "166950449843-31gguh86hoqg4so81eu254frjnjdhl6r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrKKW3DklHPJWqJBce6EnSG5PNcAuqUOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "166950449843-31gguh86hoqg4so81eu254frjnjdhl6r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
